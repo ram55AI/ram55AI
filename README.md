@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ram55AI
 - 👀 I’m interested in software devolping
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on BMW
+- 💞️ I’m looking to collaborate on Iphone
 - 📫 How to reach me in instagaram
 - 😄 Pronouns me on English
 - ⚡ Fun fact: ...
