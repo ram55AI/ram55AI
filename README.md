@@ -5,8 +5,8 @@ Student on computer science
 - 🔭 Here's my [portfolio]                                               
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact:German.
-- How to reach me:
-### I code in
+- 📲 How to reach me:
+
 <https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ### I code in
